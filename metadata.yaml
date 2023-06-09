@@ -1,6 +1,9 @@
 _repo: Jane-Austen-and-her-works_70809
 _version: 0.1.0
 alternative_title: Jane Austen & her works
+covers:
+- cover_type: archival
+  image_path: 70809-h/images/cover.jpg
 creator:
   author:
     agent_name: Tytler, Sarah
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2248
     wikipedia: https://en.wikipedia.org/wiki/Henrietta_Keddie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70809#Jane-Austen-and-her-works
 gutenberg_issued: '2023-05-20'
 identifiers:
   gutenberg: '70809'
